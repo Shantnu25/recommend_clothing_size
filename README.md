@@ -38,7 +38,7 @@ size 	           -     size of the cloth.
 
 userId 	         -      userID.
 
-fit (Target) 	   -     variable (fit/large/small).
+fit (Target) 	   -     Target variable (fit/large/small).
 
 ### Evaluation metrics
 
